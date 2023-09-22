@@ -1,0 +1,83 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: #182339;
+    color: white;
+}
+
+/* Main Body */
+
+#heading {
+    font-family: 'Mooli', sans-serif;
+    text-align: center;
+    margin: 22px;
+    padding: 13px;
+    font-size: 37px;
+}
+
+#dude1,
+#dude2,
+#dude3 {
+    margin: 22px;
+    padding: 13px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Socials */
+
+.linkedin {
+    width: 50px;
+    filter: invert(100%);
+    margin-top: 6px;
+}
+
+.instagram {
+    width: 50px;
+    filter: invert(100%);
+    margin: 3px 3px;
+}
+
+.youtube {
+    width: 50px;
+    filter: invert(100%);
+    margin: 3px 3px;
+}
+
+/* Utility */
+
+.photo {
+    width: 49%;
+}
+
+.description {
+    font-family: 'Roboto', sans-serif;
+    width: 49%;
+    font-size: 24px;
+}
+
+.description p {
+    margin: 3px 0px;
+}
+
+.description h3 {
+    font-size: 45px;
+}
+
+.links {
+    display: flex;
+    margin: 10px;
+    padding: 7px;
+    margin-left: 0px;
+    padding-left: 0px;
+}
+
+/* Corrections */
+
+#correction1 {
+    width: 58%;
+}

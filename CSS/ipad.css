@@ -1,0 +1,25 @@
+#dude1, #dude2, #dude3 {
+    flex-direction: column;
+}
+
+#heading {
+    font-size: 30px;
+}
+
+.images {
+    display: contents;
+}
+
+.description h3 {
+    font-size: 27px;
+}
+
+.description {
+    font-size: 17px;
+    width: 100%;
+    display: contents;
+}
+
+#correction1 {
+    width: 100%;
+}
